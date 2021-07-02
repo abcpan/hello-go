@@ -1,3 +1,3 @@
-module abcpan.net.cn/hello-go
+module github.com/abcpan/hello-go
 
 go 1.16
